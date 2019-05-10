@@ -1,5 +1,5 @@
 <?php
 
-/* 
+/* Dummy comment
  */
 
